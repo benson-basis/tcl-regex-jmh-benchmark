@@ -9,7 +9,7 @@
         <jmh.version>1.5.1</jmh.version>
         <javac.target>1.7</javac.target>
         <uberjar.name>benchmarks</uberjar.name>
-        <tcl-regex.version>0.13.1-SNAPSHOT</tcl-regex.version>
+        <tcl-regex.version>0.13.2-SNAPSHOT</tcl-regex.version>
     </properties>
     <dependencies>
         <dependency>
